@@ -1,6 +1,0 @@
-name: VMC-Deploy-VM
-
-on: [push];
-
-- name: Deploy VM from vSphere Content Library
-  uses: lamw/deploy-vm-from-content-library-action@0.1
